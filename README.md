@@ -19,6 +19,6 @@ pip install tensorflow opencv-python numpy matplotlib
 
 <h2>Dataset</h2><br>
 You'll need a dataset of outdoor scenes annotated with semantic segmentation labels.
-<a href="https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge">Click here to view the dataset used here!</a>
+<a href="https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge" style="color: #007bff; text-decoration: none; font-weight: bold;">Click here to view the dataset used here!</a>
 
 
