@@ -1,6 +1,6 @@
 # DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation
 
-Overview<br>
+<h2>Overview</h2><br>
 This project presents DABNet (Depth-wise Asymmetric Bottleneck), a lightweight architecture designed for real-time semantic segmentation tasks. DABNet leverages depth-wise convolutional layers and asymmetric bottlenecks to achieve a balance between model complexity and segmentation accuracy, making it suitable for deployment on resource-constrained devices.
 
 Dependencies<br>
