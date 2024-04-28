@@ -15,6 +15,7 @@ Ensure you have the following dependencies installed:
 You can install the dependencies using pip:<br>
 ```bash
 pip install tensorflow opencv-python numpy matplotlib
+```
 
 <h2>Dataset</h2><br>
 You'll need a dataset of outdoor scenes annotated with semantic segmentation labels.
