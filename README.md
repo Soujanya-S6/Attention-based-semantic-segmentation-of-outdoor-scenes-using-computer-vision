@@ -6,11 +6,11 @@ This project presents DABNet (Depth-wise Asymmetric Bottleneck), a lightweight a
 Dependencies
 Ensure you have the following dependencies installed:
 
-*Python (>=3.6)
-*TensorFlow (>=2.0)
-*OpenCV
-*NumPy
-*Matplotlib
+* Python (>=3.6)
+* TensorFlow (>=2.0)
+* OpenCV
+* NumPy
+* Matplotlib
 
 You can install the dependencies using pip:
 pip install tensorflow opencv-python numpy matplotlib
